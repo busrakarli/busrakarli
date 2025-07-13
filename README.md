@@ -47,11 +47,18 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Büşra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=busrakarli&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrakarli&layout=compact&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=busrakarli&show_icons=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrakarli&layout=compact&theme=default" />
+    </td>
+  </tr>
+</table>
 
----
 
 > ⚡ “Always eager to learn, build and share.”
