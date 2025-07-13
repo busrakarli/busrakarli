@@ -1,7 +1,7 @@
 # Hi 👋, I'm Büşra Karlı
 
 🎓 A computer engineering student from Turkey  
-💻 Full Stack Developer Intern @ Labros Software
+💻 Full Stack Developer Intern Labrus Software
 
 - 🌱 I’m currently learning **FastAPI**, **React**, **WebSocket**, **AI/NLP**
 - 🔭 I’m developing projects with **Python**, **JavaScript**, **Java**, **Tailwind CSS**
