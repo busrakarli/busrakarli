@@ -1,7 +1,7 @@
 # 💫 Hi there, I'm Büşra!
 
 🎓 I'm a 3rd-year Computer Engineering student at Istanbul Rumeli University.  
-💼 Currently working as a **Full Stack Developer Intern** at **Labros Software**.  
+💼 Currently working as a **Full Stack Developer Intern** at **Labrus Software**.  
 🚀 Passionate about building real-time, AI-powered applications using modern technologies.
 
 ---
